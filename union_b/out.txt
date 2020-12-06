@@ -1,0 +1,72 @@
+DumpImage(Sample 0): 8 8-pixels images [64 bytes]:
+
+     0: EC EC EC EC EC EC EC EC
+     1: EC EC EC EC EC EC EC EC
+     2: EC EC EC EC EC EC EC EC
+     3: EC EC EC EC EC EC EC EC
+     4: EC EC EC EC EC EC EC EC
+     5: EC EC EC EC EC EC EC EC
+     6: EC EC EC EC EC EC EC EC
+     7: EC EC EC EC EC EC EC EC
+
+DumpImage(Sample 1): 4 2-pixels images [8 bytes]:
+
+     0: 02 02
+     1: 02 02
+     2: 02 02
+     3: 02 02
+
+DumpImage(Sample 2): 3 2-pixels images [6 bytes]:
+
+     0: DC DC
+     1: DC DC
+     2: DC DC
+
+DumpImage(Sample 3): 5 2-pixels images [10 bytes]:
+
+     0: 75 75
+     1: 75 75
+     2: 75 75
+     3: 75 75
+     4: 75 75
+
+DumpImage(Sample 4): 7 4-pixels images [28 bytes]:
+
+     0: 54 54 54 54
+     1: 54 54 54 54
+     2: 54 54 54 54
+     3: 54 54 54 54
+     4: 54 54 54 54
+     5: 54 54 54 54
+     6: 54 54 54 54
+
+
+
+5 Test images loaded
+now shows 2 random images from list
+
+
+DumpImage(From Array: image 3): 5 2-pixels images [10 bytes]:
+
+     0: 75 75
+     1: 75 75
+     2: 75 75
+     3: 75 75
+     4: 75 75
+
+DumpImage(From Array: image 0): 8 8-pixels images [64 bytes]:
+
+     0: EC EC EC EC EC EC EC EC
+     1: EC EC EC EC EC EC EC EC
+     2: EC EC EC EC EC EC EC EC
+     3: EC EC EC EC EC EC EC EC
+     4: EC EC EC EC EC EC EC EC
+     5: EC EC EC EC EC EC EC EC
+     6: EC EC EC EC EC EC EC EC
+     7: EC EC EC EC EC EC EC EC
+
+        50 pointers allocated
+        5 arguments read
+        45 pointers to free
+        Block size trimmed for a total of 5 pointers
+        Image array is ready for use
